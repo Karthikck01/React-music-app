@@ -19,7 +19,7 @@ const Home = () => {
         <div className="d-flex justify-content-start align-items-center my-5">
           <Button variant="danger">Click here</Button>
           <span className="link-secondary link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover mx-5">
-            MY PROJECTS
+            Play Music
           </span>
         </div>
       </div>
