@@ -47,7 +47,6 @@ A big thank you to the following individuals and organizations who contributed t
 
 - API Provider  - For their seamless API integration that brings music to life on our platform.
 
-## License
 
 ---
 
