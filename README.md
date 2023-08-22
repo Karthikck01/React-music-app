@@ -17,7 +17,7 @@ Welcome to SoundFusion, where the world of music collides with cutting-edge tech
 1. **Clone the repository:**
 
     ```
-    git clone https://github.com/your-username/sound-fusion.git
+    git clone https://github.com/karthikck01/sound-fusion.git
     cd sound-fusion
     ```
 
