@@ -1,5 +1,7 @@
 # SoundFusion: Your Melody & Tech Blend
 
+**Note: This project is intended for personal use and as a showcase of my skills in API integration and React development.**
+
 Welcome to SoundFusion, where the world of music collides with cutting-edge technology. Explore a unique audio experience that brings you closer to your favorite tunes, and gives you the power to curate your own musical journey.
 
 ## Features
@@ -41,7 +43,7 @@ Welcome to SoundFusion, where the world of music collides with cutting-edge tech
 
 A big thank you to the following individuals and organizations who contributed to SoundFusion:
 
-- Artist Name - For their incredible music that forms the heart of SoundFusion.
+- Music owners - For their incredible music that forms the heart of SoundFusion.
 
 - API Provider  - For their seamless API integration that brings music to life on our platform.
 
