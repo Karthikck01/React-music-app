@@ -1,6 +1,6 @@
 .cor{
-    width: 600px;
+    width: auto;
     height: auto;
     overflow: hidden; 
-    filter: drop-shadow(20px 20px 500px rgba(0, 81, 255, 0.911)) saturate(150%) contrast(100%);
+    filter: drop-shadow(20px 20px 300px blue) saturate(200%) contrast(100%);
 }
