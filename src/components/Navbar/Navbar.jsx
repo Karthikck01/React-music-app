@@ -6,10 +6,7 @@ const NavbarComponent = ({ theme }) => {
   return (
     <Navbar bg={theme} expand="lg" className="shadow-sm z-3">
       <Container className=" d-flex justify-content-between">
-        <Navbar.Brand>SoundFusion</Navbar.Brand>
-        
-         
-          
+        <Navbar.Brand>SoundFusion</Navbar.Brand> 
           <ThemeButton />
       </Container>
     </Navbar>
